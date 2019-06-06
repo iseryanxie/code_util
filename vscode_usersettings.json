@@ -1,0 +1,23 @@
+{
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultSettings": true,
+    "workbench.settings.useSplitJSON": true,
+    "workbench.colorTheme": "Predawn",
+    "workbench.iconTheme": "ayu",
+    "window.zoomLevel": 2,
+    "python.pythonPath": "/home/ryan/anaconda3/bin/python3",
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "editor.fontSize": 16,
+    "editor.renderWhitespace": "boundary",
+    "code-runner.executorMap": {
+        "python": "$pythonPath -u $fullFileName"
+    },
+    "code-runner.showExecutionMessage": false,
+    "code-runner.clearPreviousOutput": true,
+    "diffEditor.ignoreTrimWhitespace": true,
+    "zenMode.fullScreen": false,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.hideTabs": false,
+    "zenMode.centerLayout": false
+}
